@@ -6,14 +6,14 @@
 #    By: zaz <zaz@staff.42.fr>                      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2013/06/20 15:51:57 by zaz               #+#    #+#              #
-#    Updated: 2015/12/04 17:53:09 by jealonso         ###   ########.fr        #
+#    Updated: 2016/01/14 17:41:11 by smignard         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 [core]
 	excludesfile = ~/.gitignore_global
 [user]
-	name = jealonso
-	email = jealonso@student.42.fr
+	name = smignard
+	email = smignard@student.42.fr
 [push]
 	default = simple
